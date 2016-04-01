@@ -1,0 +1,2 @@
+# macaca-android-test-sample
+
