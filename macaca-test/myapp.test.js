@@ -14,8 +14,7 @@ describe('macaca mobile sample', function() {
   before(function() {
     return driver.init({
       platformName: 'Android',
-      app: path.join(__dirname, '..', 'app', `android-app-bootstrap.zip`),
-      udid: "06022ee300696cb6"
+      app: path.join(__dirname, '..', 'app', `android-app-bootstrap.zip`)
     });
   });
 

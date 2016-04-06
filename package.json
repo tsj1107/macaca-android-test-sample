@@ -2,11 +2,7 @@
   "name": "macaca-android-test-sample",
   "version": "0.1.0",
   "description": "macaca-android-test-sample",
-  "dependencies": {
-    "macaca-chromedriver": "*",
-    "wd": "*"
-  },
   "devDependencies": {
-    "webdriver-client": "~1.0.0"
+    "wd": "*"
   }
 }
